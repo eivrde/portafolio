@@ -6,5 +6,3 @@ Thumbs.db
 
 # Archivos del sistema macOS
 .DS_Store
-
-# El archivo .gitignore le indica a Git qué archivos o carpetas no debe subir al repositorio. Aunque ahora es muy simple, acostumbrarte a crear este archivo desde el inicio es una práctica profesional.
